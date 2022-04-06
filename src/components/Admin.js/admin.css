@@ -1,0 +1,20 @@
+.admin{
+    width: 50%;
+    margin-top: 20px;
+    border:2px solid  #003f5c;
+    text-align: center;
+    border-radius: 10px;
+}
+.content{
+    border:1px solid #003f5c;
+    border-radius: 1px;
+    margin-bottom: 10px;
+    width: 100%;
+    border-radius: 1px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+

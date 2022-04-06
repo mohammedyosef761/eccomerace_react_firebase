@@ -1,0 +1,13 @@
+.navbar{
+    background-color: #003f5c !important;
+}
+
+.navbar-brand{
+    color:whitesmoke !important;
+}
+.nav-link{
+    color:beige !important;
+}
+.navbar-toggler,.navbar-toggler-icon{
+    color:white !important ;
+}
